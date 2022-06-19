@@ -18,20 +18,20 @@
 ![](screenshots/getusers.png)
 
 ## Change password
-![](screenshots/changepassword1.png)
-![](screenshots/ı.png)
+![](screenshots/changepassword1.PNG)
+![](screenshots/ı.PNG)
 
 ## Give error when the same username is used.
-![](screenshots/chooseanother.png)
+![](screenshots/chooseanother.PNG)
 
 ## Post vehicle
-![](screenshots/addvehicle.png)
+![](screenshots/addvehicle.PNG)
 
 ## get user by id
 ![](screenshots/getuserbyid.png)
 
 ## update model
-![](screenshots/updatemodel.png)
+![](screenshots/updatemodel.PNG)
 
 ## update brand
 ![](screenshots/updatebrand.png)
