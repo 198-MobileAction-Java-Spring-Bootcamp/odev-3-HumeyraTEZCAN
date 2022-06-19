@@ -1,4 +1,4 @@
-# Ödev için master branche bakabilirsiniz.
+# Check master branch for source code!
 ## Register 
 ![](screenshots/register.png)
 
