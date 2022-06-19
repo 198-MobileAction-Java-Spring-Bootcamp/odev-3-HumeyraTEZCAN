@@ -36,3 +36,6 @@
 ## update brand
 ![](screenshots/updatebrand.png)
 
+## delete vehicle
+![](screenshots/delete.png)
+
